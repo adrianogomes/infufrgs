@@ -12,9 +12,9 @@
 %
 
 % Reitoria
-\providecommand{\nominataReit}{Prof\textsuperscript{a}.~Marcia Barbosa}
+\providecommand{\nominataReit}{Prof\textsuperscript{a}.~Marcia Cristina Bernardes Barbosa}
 \providecommand{\nominataReitname}{Reitora}
-\providecommand{\nominataPRCA}{Prof.~Pedro Costa}
+\providecommand{\nominataPRCA}{Prof.~Pedro de Almeida Costa}
 \providecommand{\nominataPRCAname}{Vice-Reitor}
 
 % PROPG
@@ -42,7 +42,7 @@
 \providecommand{\nominataBibchefename}{Bibliotec{\'a}rio-chefe do Instituto de Inform{\'a}tica}
 
 % INA (Informática Aplicada)
-\providecommand{\nominataChefeINA}{Prof.~Leandro Wives}
+\providecommand{\nominataChefeINA}{Prof.~Leandro Krug Wives}
 \providecommand{\nominataChefeINAname}{Chefe do \deptINA}
 
 % INT (Informática Teórica)
@@ -54,5 +54,5 @@
 \providecommand{\nominataCoordCICname}{Coordenador do Curso de Ci{\^e}ncia de Computa{\c{c}}{\~a}o}
 
 %ECP
-\providecommand{\nominataCoordECP}{Prof.~Cl{\'a}udio Machado Diniz}
+\providecommand{\nominataCoordECP}{Prof.~Paulo Francisco Butzen}
 \providecommand{\nominataCoordECPname}{Coordenador do Curso de Engenharia de Computa{\c{c}}{\~a}o}
